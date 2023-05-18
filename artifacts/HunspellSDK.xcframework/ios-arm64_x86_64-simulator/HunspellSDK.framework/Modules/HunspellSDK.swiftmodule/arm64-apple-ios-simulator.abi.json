@@ -1,0 +1,153 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "HunspellSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "HunspellSDKManager",
+        "printedName": "HunspellSDKManager",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "HunspellSDKManager",
+                "printedName": "HunspellSDK.HunspellSDKManager",
+                "usr": "s:11HunspellSDK0A10SDKManagerC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:11HunspellSDK0A10SDKManagerCACycfc",
+            "mangledName": "$s11HunspellSDK0A10SDKManagerCACycfc",
+            "moduleName": "HunspellSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "updateLanguage",
+            "printedName": "updateLanguage(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11HunspellSDK0A10SDKManagerC14updateLanguageyySSF",
+            "mangledName": "$s11HunspellSDK0A10SDKManagerC14updateLanguageyySSF",
+            "moduleName": "HunspellSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getSuggestions",
+            "printedName": "getSuggestions(for:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11HunspellSDK0A10SDKManagerC14getSuggestions3forSaySSGSS_tF",
+            "mangledName": "$s11HunspellSDK0A10SDKManagerC14getSuggestions3forSaySSGSS_tF",
+            "moduleName": "HunspellSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:11HunspellSDK0A10SDKManagerC",
+        "mangledName": "$s11HunspellSDK0A10SDKManagerC",
+        "moduleName": "HunspellSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/includetech\/Desktop\/HunspellSDK\/HunspellSDK\/HunspellSDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 213,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/includetech\/Desktop\/HunspellSDK\/HunspellSDK\/HunspellSDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 370,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/includetech\/Desktop\/HunspellSDK\/HunspellSDK\/HunspellSDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 441,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/includetech\/Desktop\/HunspellSDK\/HunspellSDK\/HunspellSDK.swift",
+      "kind": "Array",
+      "offset": 558,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/includetech\/Desktop\/HunspellSDK\/HunspellSDK\/HunspellSDK.swift",
+      "kind": "Array",
+      "offset": 682,
+      "length": 2,
+      "value": "[]"
+    }
+  ]
+}

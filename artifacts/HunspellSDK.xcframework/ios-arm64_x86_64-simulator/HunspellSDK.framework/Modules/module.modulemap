@@ -1,0 +1,13 @@
+framework module HunspellSDK {
+    umbrella header "HunspellSDK.h"
+
+    private header "SpellChecker.h"
+
+    export *
+    module * { export * }
+}
+
+module HunspellSDK.Swift {
+  header "HunspellSDK-Swift.h"
+  requires objc
+}
