@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4nc2b3FqxIgB8MPfyKPW7iPQp0I=
+		f0aY3R7bij+QDDeZ54J2iFN8FlQ=
 		</data>
 		<key>Modules/HunspellSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		cOlWjYOmTjtUsjWJQ3dL2flmSq0=
+		6YJjYXjTWl5GHl5QnFIy+x73xBU=
 		</data>
 		<key>Modules/HunspellSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		YhKi24s5mY6VWZlZf4oZPe71nKo=
+		oEr5UGlr5xy5NUC/Micz0A8eiIM=
 		</data>
 		<key>Modules/HunspellSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		WGTOX3ln3lgIwYjOECRvF0K4StE=
+		kruyGaP3meGs3ga/XzVCnf5dOmI=
 		</data>
 		<key>Modules/HunspellSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		YhKi24s5mY6VWZlZf4oZPe71nKo=
+		oEr5UGlr5xy5NUC/Micz0A8eiIM=
 		</data>
 		<key>Modules/HunspellSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		IzH34zLT2ABfkO2adZPFpDAM5PU=
+		XCPOIBvzO0zcyfRix2MW5v+o4Us=
 		</data>
 		<key>Modules/HunspellSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		cOlWjYOmTjtUsjWJQ3dL2flmSq0=
+		6YJjYXjTWl5GHl5QnFIy+x73xBU=
 		</data>
 		<key>Modules/HunspellSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		lmIpAEWt+vd602AFXZ9n1eXh9ws=
+		Hn4l6xgIP9Xsdgf+LcqjlvptXfQ=
 		</data>
 		<key>Modules/HunspellSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		DmFPsemFbVcaaq6++g8uaSBdAgc=
+		hNmZ6N3AKMr+XdsiCzRRCTTgGyU=
 		</data>
 		<key>Modules/HunspellSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		lmIpAEWt+vd602AFXZ9n1eXh9ws=
+		Hn4l6xgIP9Xsdgf+LcqjlvptXfQ=
 		</data>
 		<key>Modules/HunspellSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		k3VGR4Smd+uEoVqDJaW+qSrVpJc=
+		XqMgDygOoqrAVzR1ZmstWcEc3qc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -121,70 +121,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6QwH0UApbnK6yrd9tqO1PVO4vt1mBMpEqogzujYQpeY=
+			D2a7/uC9jUvextuAusJkVtetee2IKYZvuNPofy0OmvQ=
 			</data>
 		</dict>
 		<key>Modules/HunspellSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VAPGadxBpIOQNU7D3XX5M7/vzSFOjAL1OUdnT5/S2hI=
+			dnmhLxsxLvwuoYCoGhGjN0JhRW116jV8ex8cbhsgUKA=
 			</data>
 		</dict>
 		<key>Modules/HunspellSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bvk7vikly4cubhbV8jZ69YydraHnGgB43qNemdXNDYc=
+			K4CdIORZqb1gPX4QGMXf8G4egmzgdIpfAXZ3PjZmy1s=
 			</data>
 		</dict>
 		<key>Modules/HunspellSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VAPGadxBpIOQNU7D3XX5M7/vzSFOjAL1OUdnT5/S2hI=
+			dnmhLxsxLvwuoYCoGhGjN0JhRW116jV8ex8cbhsgUKA=
 			</data>
 		</dict>
 		<key>Modules/HunspellSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bx6nSJeZZM70TNppzCkVRw2rpsWuh7zwlZ+b3VLXmSY=
+			Uyg37E0Mj5tC2KLQ0F3mNdrgcfLuFBu/Lx+LT22o+tY=
 			</data>
 		</dict>
 		<key>Modules/HunspellSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6QwH0UApbnK6yrd9tqO1PVO4vt1mBMpEqogzujYQpeY=
+			D2a7/uC9jUvextuAusJkVtetee2IKYZvuNPofy0OmvQ=
 			</data>
 		</dict>
 		<key>Modules/HunspellSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O/bF5osfNlCb3k/XGJLsaP1MsFD14RBQKXpLeEglNL8=
+			UiVYKnALgcFGyPvIw2X+NSWtnTjSeVgI0QQfOdtS5UA=
 			</data>
 		</dict>
 		<key>Modules/HunspellSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ymw9rmJSCEc9xEgnUCshGqy8q7BAaCIFNZvrlpDQSkA=
+			Rh8s/SzxYdqWYl5uSl+9U1arulEHw2pZkpHaUu+L2S4=
 			</data>
 		</dict>
 		<key>Modules/HunspellSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O/bF5osfNlCb3k/XGJLsaP1MsFD14RBQKXpLeEglNL8=
+			UiVYKnALgcFGyPvIw2X+NSWtnTjSeVgI0QQfOdtS5UA=
 			</data>
 		</dict>
 		<key>Modules/HunspellSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AbkuHzR6WOQinStO4ZZm/I9Db+8xDIM95qvtJCGUriQ=
+			6bk9kr6SDwpZi5CzXOGf40qGTIn5J3dV0jL0Z7e65N4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
