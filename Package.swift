@@ -23,7 +23,7 @@ let package = Package(
             name: "HunspellPackage",
             dependencies: []),
         .binaryTarget(name: "HunspellSDK",
-                              path: "artifacts/HunspellSDK.xcframework"),
+                      path: "HunspellSDK.xcframework"),
         .testTarget(
             name: "HunspellPackageTests",
             dependencies: ["HunspellPackage"]),
